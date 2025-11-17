@@ -128,17 +128,6 @@ Click Deploy
 Review Text	Prediction
 “Loved this book! Very useful.”	👍 Positive
 “Waste of money. Bad writing.”	👎 Negative
-📌 Future Enhancements
-
-Add confidence score
-
-Show sentiment probability
-
-Word cloud of positive/negative reviews
-
-Multi-review batch prediction
-
-Add charts and analytics
 
 🤝 Author
 
