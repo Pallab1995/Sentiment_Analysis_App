@@ -2,7 +2,9 @@
 
 
 🔗 Live Demo: https://sentimentanalysisapp-mepehnpjfdcgpnlnmjptp3.streamlit.app/
+
 📂 GitHub Repo: https://github.com/Pallab1995/Sentiment_Analysis_App.git
+
 ⭐ Project Overview
 
 This project is an end-to-end Sentiment Analysis system built using:
@@ -133,5 +135,7 @@ Review Text	Prediction
 
 Pallab Sharma
 Machine Learning & Data Science Enthusiast
+
 🔗 GitHub Profile(https://github.com/Pallab1995)
+
 📧 Email: pallabsharma100@gmail.com
