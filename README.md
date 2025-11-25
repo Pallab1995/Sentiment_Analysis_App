@@ -134,7 +134,8 @@ Review Text	Prediction
 🤝 Author
 
 Pallab Sharma
-Machine Learning & Data Science Enthusiast
+
+Data Analyst → AI/ML Practitioner
 
 🔗 GitHub Profile(https://github.com/Pallab1995)
 
